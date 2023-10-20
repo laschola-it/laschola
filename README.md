@@ -1,3 +1,3 @@
 # laschola
 
-repo
+repository
